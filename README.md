@@ -1,4 +1,4 @@
-# Mate AI CLI Coder
+![img1](https://github.com/RandomCatUser/Deeply-Code/blob/main/ascii-art-text%20(1).png?raw=true)
 
 A professional command-line coding assistant that leverages the Pollinations AI API to help developers with coding tasks, featuring VS Code integration and a clean, professional interface.
 
